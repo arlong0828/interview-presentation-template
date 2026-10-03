@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "name": "Your Name",
+    "title": "Automation Engineer",
+    "summary": "Brief professional summary",
+    "contact": "email@example.com"
+  },
+  "strengths": [
+    "System integration",
+    "Operational improvement",
+    "Cross-team communication"
+  ],
+  "experience": [
+    {
+      "company": "Example Company",
+      "role": "Engineer",
+      "period": "2023–Present",
+      "highlights": ["Improved a measurable KPI", "Delivered a cross-functional project"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Example Project",
+      "problem": "Describe the original problem",
+      "action": "Describe your implementation",
+      "result": "Describe the measurable result"
+    }
+  ],
+  "closing": "Thank you"
+}
